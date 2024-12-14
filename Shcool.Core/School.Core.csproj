@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.10.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="8.0.10" />
+    <PackageReference Include="Serilog" Version="4.1.0" />
+    <PackageReference Include="System.Reflection" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shcool.Data\School.Data.csproj" />
+    <ProjectReference Include="..\Shcool.Infrustructure\School.Infrustructure.csproj" />
+    <ProjectReference Include="..\Shcool.Service\School.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resourse\ShareResourse.Ar.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ShareResourse.Ar.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resourse\ShareResourse.Ar.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ShareResourse.Ar.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Featuers\Authantcation\Command\Result\" />
+    <Folder Include="Featuers\Authantcation\Query\Result\" />
+    <Folder Include="Featuers\Department\Command\" />
+    <Folder Include="Featuers\ApplicationUser\Command\Result\" />
+    <Folder Include="Featuers\Emal\Query\" />
+    <Folder Include="Featuers\Instructor\Commands\Result\" />
+    <Folder Include="Mapping\Authorization\CommandMapping\" />
+    <Folder Include="Mapping\DepartmentMapping\CommandMapping\" />
+  </ItemGroup>
+
+</Project>

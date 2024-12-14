@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ip99crcyInwqErnAHiW8O7l96o0PfdilGKfgW36z8v8=",
+  "Source": "ShcoolProject.Api",
+  "BasePath": "_content/ShcoolProject.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShcoolProject.Api\\wwwroot",
+      "Source": "ShcoolProject.Api",
+      "ContentRoot": "D:\\mohamed\\ShcoolProject\\ShcoolProject.Api\\wwwroot\\",
+      "BasePath": "_content/ShcoolProject.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\mohamed\\ShcoolProject\\ShcoolProject.Api\\wwwroot\\Instractors\\f67900e3-834d-4090-8112-f3ed688f3cea.jpg",
+      "SourceId": "ShcoolProject.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\mohamed\\ShcoolProject\\ShcoolProject.Api\\wwwroot\\",
+      "BasePath": "_content/ShcoolProject.Api",
+      "RelativePath": "Instractors/f67900e3-834d-4090-8112-f3ed688f3cea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Instractors\\f67900e3-834d-4090-8112-f3ed688f3cea.jpg"
+    }
+  ]
+}

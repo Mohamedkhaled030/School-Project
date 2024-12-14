@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\mohamed\\ShcoolProject\\ShcoolProject.Api\\wwwroot\\Instractors\\f67900e3-834d-4090-8112-f3ed688f3cea.jpg",
+      "PackagePath": "staticwebassets\\Instractors\\f67900e3-834d-4090-8112-f3ed688f3cea.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShcoolProject.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShcoolProject.Api.props",
+      "PackagePath": "build\\ShcoolProject.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShcoolProject.Api.props",
+      "PackagePath": "buildMultiTargeting\\ShcoolProject.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShcoolProject.Api.props",
+      "PackagePath": "buildTransitive\\ShcoolProject.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

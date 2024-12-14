@@ -1,0 +1,14 @@
+D:\mohamed\ShcoolProject\Shcool.Data\bin\Debug\net8.0\Shcool.Data.deps.json
+D:\mohamed\ShcoolProject\Shcool.Data\bin\Debug\net8.0\Shcool.Data.runtimeconfig.json
+D:\mohamed\ShcoolProject\Shcool.Data\bin\Debug\net8.0\Shcool.Data.dll
+D:\mohamed\ShcoolProject\Shcool.Data\bin\Debug\net8.0\Shcool.Data.pdb
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.csproj.AssemblyReference.cache
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.AssemblyInfoInputs.cache
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.AssemblyInfo.cs
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.csproj.CoreCompileInputs.cache
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.dll
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\refint\Shcool.Data.dll
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.pdb
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\Shcool.Data.genruntimeconfig.cache
+D:\mohamed\ShcoolProject\Shcool.Data\obj\Debug\net8.0\ref\Shcool.Data.dll
